@@ -1,7 +1,7 @@
 require('dotenv').config();
 const { ethers } = require("hardhat");
 
-const { IPFS_URL } = process.env.IPFS_URL;
+const { IPFS_URL } = process.env;
 const baseTokenURI = IPFS_URL;
 
 async function deploy(contractName, baseTokenURI) {
