@@ -2,7 +2,7 @@
   "name": "BRDN#1",
   "external_url": "",
   "description": "NFT of Brandon",
-  "image": "ipfs://QmPt8vbaADNk514zmftf9KFvdLNwzowZGEgLXwCoZcAN5a/1.png",
+  "image": "https://gateway.pinata.cloud/QmPt8vbaADNk514zmftf9KFvdLNwzowZGEgLXwCoZcAN5a/1.png",
   "attributes": [
     {
         "trait_type": "top",
