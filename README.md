@@ -1,6 +1,8 @@
-# Basic Sample Hardhat Project
+# Basic ERC-721 Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Extending capability of basic ERC-721 with:
+- list and unlist token for sale
+- buyer can directly buy the token without needed an approval from the owner if the token is listed.
 
 Try running some of the following tasks:
 
