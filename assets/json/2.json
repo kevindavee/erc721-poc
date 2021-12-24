@@ -1,0 +1,20 @@
+{
+  "name": "BRDN#2",
+  "external_url": "",
+  "description": "NFT of Brandon",
+  "image": "ipfs://QmPt8vbaADNk514zmftf9KFvdLNwzowZGEgLXwCoZcAN5a/2.png",
+  "attributes": [
+    {
+        "trait_type": "top",
+        "value": "jacket"
+    },
+    {
+        "trait_type": "vibes",
+        "value": "young"
+    },
+    {
+        "trait_type": "glasses",
+        "value": "no"
+    }
+  ]
+}
